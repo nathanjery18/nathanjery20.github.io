@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anthony Jeremiah Bird Tours</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin:0; background:#f0fff4; color:#222; }
+    header { background:#28a745; color:white; padding:20px; text-align:center; }
+    header h1 { margin:0; font-size:2.5em; }
+    header p { margin:5px 0; font-style:italic; }
+    nav { background:#ffc107; padding:10px; text-align:center; }
+    nav a { margin:0 15px; color:#000; text-decoration:none; font-weight:bold; }
+    section { padding:30px; max-width:900px; margin:auto; }
+    h2 { color:#28a745; }
+    .cta { background:#007bff; color:white; padding:15px 25px; text-decoration:none; border-radius:8px; display:inline-block; margin-top:20px; }
+    .cta:hover { background:#0056b3; }
+    footer { background:#222; color:white; text-align:center; padding:20px; margin-top:40px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Anthony Jeremiah Bird Tours</h1>
+    <p>Experience the beauty of Grenada</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#tours">Tours</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Anthony Jeremiah Bird Tours is dedicated to showcasing Grenada’s vibrant birdlife and natural beauty. With years of local expertise, Anthony provides guided tours for nature lovers, photographers, and birdwatchers of all levels.</p>
+    <p>Whether you’re seeking rare species or simply want to explore Grenada’s lush forests, we make your birding adventure unforgettable.</p>
+  </section>
+
+  <section id="tours">
+    <h2>Our Tours</h2>
+    <ul>
+      <li><b>Guided Birdwatching Tours 🐦</b> – Explore Grenada’s top birding locations with a knowledgeable local guide.</li>
+      <li><b>Photography-Friendly Excursions 📸</b> – Perfect for capturing Grenada’s most beautiful and rare species.</li>
+      <li><b>Custom Tours 🌿</b> – Tailored experiences for individuals, groups, and families.</li>
+    </ul>
+    <p><i>All tours include transportation, refreshments, and expert guidance.</i></p>
+    <a href="#contact" class="cta">Book a Tour</a>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:tonydove200@yahoo.com">tonydove200@yahoo.com</a></p>
+    <p>Phone/WhatsApp: <a href="tel:+14734160191">473-416-0191</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Anthony Jeremiah Bird Tours | Experience the beauty of Grenada</p>
+  </footer>
+</body>
+</html>
